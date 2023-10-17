@@ -16,3 +16,7 @@ You can train your own model with your own intents using the chatbot.py file.
 MindMate is not a substitute for professional mental health advice or treatment. It is intended to provide support and information but should not replace seeking help from a licensed mental health professional when needed. If you are in crisis or experiencing severe mental health issues, please contact a mental health provider or emergency services immediately.
 
 Please note that the responses from the chatbot may not always be accurate. The information provided is based on predefined rules and may not cover all individual circumstances or nuances. Use the chatbot as a supplementary resource and exercise caution when interpreting its responses.
+
+Here are few Screenshots of the ChatBot
+1. ![Screenshot 2023-10-11 224651](https://github.com/prajwalvpatil/MindMate---A-Mental-Health-ChatBot/assets/109746113/f88cec5a-dc96-432f-a878-25666f539b36)
+2. ![Screenshot 2023-10-11 141228](https://github.com/prajwalvpatil/MindMate---A-Mental-Health-ChatBot/assets/109746113/bc748e7e-78df-4de7-8e84-97845ddfd918)
